@@ -1,0 +1,7 @@
+[{"name":"Malampa"},
+{"name":"Penama"},
+{"name":"Sanma"},
+{"name":"Shefa"},
+{"name":"Tafea"},
+{"name":"Torba"}
+]

@@ -1,0 +1,13 @@
+[{"id":58001,"name":"Addis Ababa"},
+{"id":58002,"name":"Afar"},
+{"id":58003,"name":"Amhara"},
+{"id":58004,"name":"Benishangul-Gumuz"},
+{"id":58005,"name":"Dire Dawa"},
+{"id":58006,"name":"Gambela"},
+{"id":58007,"name":"Harari"},
+{"id":58008,"name":"Oromia"},
+{"id":58009,"name":"Somali"},
+{"id":58010,"name":"Southern Nations, Nationalities, and Peoples'Region"},
+{"id":58011,"name":"Tigray"},
+{"id":58012,"name":"Sidami"}
+]

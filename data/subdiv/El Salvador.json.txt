@@ -1,0 +1,15 @@
+[{"id":53001,"name":"Ahuachapan"},
+{"id":53002,"name":"Cabanas"},
+{"id":53003,"name":"Chalatenango"},
+{"id":53004,"name":"Cuscatlan"},
+{"id":53005,"name":"La Libertad"},
+{"id":53006,"name":"La Paz"},
+{"id":53007,"name":"La Union"},
+{"id":53008,"name":"Morazan"},
+{"id":53009,"name":"San Miguel"},
+{"id":53010,"name":"San Salvador"},
+{"id":53011,"name":"San Vicente"},
+{"id":53012,"name":"Santa Ana"},
+{"id":53013,"name":"Sonsonate"},
+{"id":53014,"name":"Usulutan"}
+]

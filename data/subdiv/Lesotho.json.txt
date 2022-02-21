@@ -1,0 +1,11 @@
+[{"name": "Berea"},
+{"name": "Butha-Buthe"},
+{"name": "Leribe"},
+{"name": "Mafeteng"},
+{"name": "Maseru"},
+{"name": "Mohale's Hoek"},
+{"name": "Mokhotlong"},
+{"name": "Qacha's Nek"},
+{"name": "Quthing"},
+{"name": "Thaba-Tseka"}
+]

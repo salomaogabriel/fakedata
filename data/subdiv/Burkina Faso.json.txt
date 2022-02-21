@@ -1,0 +1,14 @@
+[{"id":27001,"name":"Boucle du Mouhoun"},
+{"id":27002,"name":"Cascades"},
+{"id":27003,"name":"Centre"},
+{"id":27004,"name":"Centre-Est"},
+{"id":27005,"name":"Centre-Nord"},
+{"id":27006,"name":"Centre-Ouest"},
+{"id":27007,"name":"Centre-Sud"},
+{"id":27008,"name":"Est"},
+{"id":27009,"name":"Hauts-Bassins"},
+{"id":27010,"name":"Nord"},
+{"id":27011,"name":"Plateau-Central"},
+{"id":27012,"name":"Sahel"},
+{"id":27013,"name":"Sud-Ouest"}
+]

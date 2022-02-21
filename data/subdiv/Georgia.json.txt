@@ -1,0 +1,13 @@
+[{"id":64001,"name":"Abkhazia"},
+{"id":64002,"name":"Adjara"},
+{"id":64003,"name":"Guria"},
+{"id":64004,"name":"Imereti"},
+{"id":64005,"name":"Kakheti"},
+{"id":64006,"name":"Kvemo Kartli"},
+{"id":64007,"name":"Mtskheta-Mtianeti"},
+{"id":64008,"name":"Racha-Lechkhumi and Kvemo Svaneti"},
+{"id":64009,"name":"Samegrelo-Zemo"},
+{"id":64010,"name":"Samtskhe-Javakheti"},
+{"id":64011,"name":"Shida kartli"},
+{"id":64012,"name":"Tbilisi"}
+]

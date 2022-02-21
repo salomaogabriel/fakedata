@@ -1,0 +1,9 @@
+﻿[{"name":"Al Shamal"},
+{"name":"Al Khor"},
+{"name":"Al-Shahaniya"},
+{"name":"Umm Salal"},
+{"name":"Al Daayen"},
+{"name":"Ad Dawhah(Doha)"},
+{"name":"Al Rayyan"},
+{"name":"Al Wakrah"}
+]

@@ -1,0 +1,7 @@
+[{"id":47001,"name":"Djibouti Region"},
+{"id":47002,"name":"Ali Sabieh"},
+{"id":47003,"name":"Arta"},
+{"id":47004,"name":"Dikhil"},
+{"id":47005,"name":"Tadjourah"},
+{"id":47006,"name":"Obock"}
+]

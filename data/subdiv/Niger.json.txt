@@ -1,0 +1,9 @@
+[{"name":"Agadez" },
+{"name":"Diffa" },
+{"name":"Dosso" },
+{"name":"Maradi" },
+{"name":"Niamey" },
+{"name":"Tahoua" },
+{"name":"Tillaberi" },
+{"name":"Zinder" }
+]

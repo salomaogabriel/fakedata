@@ -1,0 +1,15 @@
+[{"id":45001,"name":"Hlavni Mesto Praha"},
+{"id":45002,"name":"Stredocesky"},
+{"id":45003,"name":"Jihocesky"},
+{"id":45004,"name":"Vysocina"},
+{"id":45005,"name":"Pleznsky"},
+{"id":45006,"name":"Karlovarsky"},
+{"id":45007,"name":"Ustecky"},
+{"id":45008,"name":"Liberecky"},
+{"id":45009,"name":"Kralovehradecky"},
+{"id":45010,"name":"Pardubicky"},
+{"id":45011,"name":"Olomucky"},
+{"id":45012,"name":"Moravskoslezsky"},
+{"id":45013,"name":"Jihomoravsky"},
+{"id":45014,"name":"Zlinsky"}
+]

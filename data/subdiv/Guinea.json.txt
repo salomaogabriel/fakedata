@@ -1,0 +1,9 @@
+[{"id":70001,"name":"Boke"},
+{"id":70002,"name":"Conakry"},
+{"id":70003,"name":"Faranah"},
+{"id":70004,"name":"Kankan"},
+{"id":70005,"name":"Kindia"},
+{"id":70006,"name":"Labe"},
+{"id":70007,"name":"Mamou"},
+{"id":70008,"name":"Nzerekore"}
+]

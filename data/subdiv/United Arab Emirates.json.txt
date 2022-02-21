@@ -1,0 +1,8 @@
+[{"name":"Abu Dhabi"},
+{"name":"Ajman"},
+{"name":"Dubai"},
+{"name":"Fujairah"},
+{"name":"Ras Al Khaimah"},
+{"name":"Sharjah"},
+{"name":"Umm Al Quwain"}
+]

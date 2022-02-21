@@ -1,0 +1,12 @@
+[{"id":8001,"name":"Aragatsotn Province"},
+{"id":8002,"name":"Ararat Province"},
+{"id":8003,"name":"Armavir Province"},
+{"id":8004,"name":"Gegharunik Province"},
+{"id":8005,"name":"Kotayk Province"},
+{"id":8006,"name":"Lori Province"},
+{"id":8007,"name":"Shirak Province"},
+{"id":8008,"name":"Syunik Province"},
+{"id":8009,"name":"Tavush Province"},
+{"id":8010,"name":"Vayots Dzor Province"},
+{"id":8011,"name":"Yerevan"}
+]

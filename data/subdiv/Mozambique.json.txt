@@ -1,0 +1,12 @@
+[{"name":"Cabo Delgado" },
+{"name":"Gaza" },
+{"name":"Inhambane" },
+{"name":"Manica" },
+{"name":"aputo City" },
+{"name":"Maputo" },
+{"name":"Nampula" },
+{"name":"Niassa" },
+{"name":"Sofala" },
+{"name":"Tete" },
+{"name":"Zambezia" }
+]

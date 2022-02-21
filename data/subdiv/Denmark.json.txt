@@ -1,0 +1,7 @@
+[{"id":46001,"name":"Region Hovedstaden"},
+{"id":46002,"name":"Region Midtjylland"},
+{"id":46003,"name":"Region Nordjylland"},
+{"id":46004,"name":"Region Sjaelland"},
+{"id":46005,"name":"Region Syddanmark"},
+{"id":46006,"name":"Greenland"},
+{"id":46007,"name":"Faroe Islands"}]

@@ -1,0 +1,5 @@
+[{"id":13001,"name":"Capital Governorate"},
+{"id":13002,"name":"Muharraq Governorate"},
+{"id":13003,"name":"Northern Governorate"},
+{"id":13004,"name":"Southern Governorate"}
+]

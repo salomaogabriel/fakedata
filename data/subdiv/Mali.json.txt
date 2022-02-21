@@ -1,0 +1,12 @@
+[{"name": "Bamako"},
+{"name": "Gao"},
+{"name": "Kayes"},
+{"name": "Kidal"},
+{"name": "Koulikoro"},
+{"name": "Menaka"},
+{"name": "Mopti"},
+{"name": "Segou"},
+{"name": "Sikasso"},
+{"name": "Taoudenit"},
+{"name": "Tombouctou"}
+]

@@ -1,0 +1,12 @@
+﻿[{"name":"Tuamasaga"},
+{"name":"A'ana"},
+{"name":"Alga-i-le-Tai"},
+{"name":"Atua"},
+{"name":"Va'a-o-Fonoti"},
+{"name":"Fa'asaleleaga"},
+{"name":"Gaga'emauga"},
+{"name":"Gaga'ifomauga"},
+{"name":"Vasigano"},
+{"name":"Satupa'itea"},
+{"name":"Palauli"}
+]

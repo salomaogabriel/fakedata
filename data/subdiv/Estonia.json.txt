@@ -1,0 +1,16 @@
+[{"id":56001,"name":"Harju"},
+{"id":56002,"name":"Hilu"},
+{"id":56003,"name":"Ida-Viru"},
+{"id":56004,"name":"Jogeva"},
+{"id":56005,"name":"Jarva"},
+{"id":56006,"name":"Laane"},
+{"id":56007,"name":"Laane-Viru"},
+{"id":56008,"name":"Polva"},
+{"id":56009,"name":"Parnu"},
+{"id":56010,"name":"Rapla"},
+{"id":56011,"name":"Saare"},
+{"id":56012,"name":"Tartu"},
+{"id":56013,"name":"Valga"},
+{"id":56014,"name":"Vilijandi"},
+{"id":56015,"name":"Voru"}
+]

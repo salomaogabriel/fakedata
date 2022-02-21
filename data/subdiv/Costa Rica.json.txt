@@ -1,0 +1,8 @@
+[{"id":41001,"name":"Alajuela"},
+{"id":41002,"name":"Cartago"},
+{"id":41003,"name":"Guanacaste"},
+{"id":41004,"name":"Heredia"},
+{"id":41005,"name":"Limon"},
+{"id":41006,"name":"Puntarenas"},
+{"id":41007,"name":"San Jose"}
+]

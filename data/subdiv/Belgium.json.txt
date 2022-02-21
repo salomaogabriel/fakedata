@@ -1,0 +1,12 @@
+[{"id":17001,"name":"Antwerp"},
+{"id":17002,"name":"East Flanders"},
+{"id":17003,"name":"Flemish Brabant"},
+{"id":17004,"name":"Limburg"},
+{"id":17005,"name":"West Flanders"},
+{"id":17006,"name":"Hainaut"},
+{"id":17007,"name":"Liege"},
+{"id":17008,"name":"Luxembourg"},
+{"id":17009,"name":"Namur"},
+{"id":17010,"name":"Wallon Brabant"},
+{"id":17011,"name":"Brussels Capital Region"}
+]

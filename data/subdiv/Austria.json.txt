@@ -1,0 +1,10 @@
+[{"id":10001,"name":"Vienan"},
+{"id":10002,"name":"Lower Austria"},
+{"id":10003,"name":"Upper Austria"},
+{"id":10004,"name":"Styria"},
+{"id":10005,"name":"Tyrol"},
+{"id":10006,"name":"Carinthia"},
+{"id":10007,"name":"Salzburg"},
+{"id":10008,"name":"Voralberg"},
+{"id":10009,"name":"Burgenland"}
+]

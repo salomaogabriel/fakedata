@@ -1,0 +1,10 @@
+[{"id":62001,"name":"Estuaire"},
+{"id":62002,"name":"Haut-Ogooue"},
+{"id":62003,"name":"Moyen-Ogooue"},
+{"id":62004,"name":"Ngounie"},
+{"id":62005,"name":"Nyanga"},
+{"id":62006,"name":"Ogooue-Ivindo"},
+{"id":62007,"name":"Ogooue-Lolo"},
+{"id":62008,"name":"Ogooue-Maritime"},
+{"id":62009,"name":"Woleu-Ntem"}
+]

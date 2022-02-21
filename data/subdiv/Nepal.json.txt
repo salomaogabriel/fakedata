@@ -1,0 +1,8 @@
+[{"name":"Bagmati Pradesh" },
+{"name":"Gandaki Pradesh" },
+{"name":"Karnali Pradesh" },
+{"name":"Province No. 1" },
+{"name":"Province No. 2" },
+{"name":"Province No. 5" },
+{"name":"Sudurpashchim Pradesh" }
+]

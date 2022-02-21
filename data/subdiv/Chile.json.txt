@@ -1,0 +1,17 @@
+[{"id":35001,"name":"Antofagasta"},
+{"id":35002,"name":"Araucania"},
+{"id":35003,"name":"Arica y Parinacota"},
+{"id":35004,"name":"Atacama"},
+{"id":35005,"name":"Aysen"},
+{"id":35006,"name":"Biobio"},
+{"id":35007,"name":"Coquimbo"},
+{"id":35008,"name":"Los Lagos"},
+{"id":35009,"name":"Los Rios"},
+{"id":35010,"name":"Magallanes"},
+{"id":35011,"name":"Maule"},
+{"id":35012,"name":"Nuble"},
+{"id":35013,"name":"O'Higgins"},
+{"id":35014,"name":"Santiago"},
+{"id":35015,"name":"Tarapaca"},
+{"id":35016,"name":"Valparaiso"}
+]

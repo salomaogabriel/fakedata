@@ -1,0 +1,17 @@
+[{"name": "Johor "},
+{"name": "Kedah"},
+{"name": "Kelantan"},
+{"name": "Malacca "},
+{"name": "Negeri Sembilan"},
+{"name": "Pahang"},
+{"name": "Penang"},
+{"name": "Perak"},
+{"name": "Perlis"},
+{"name": "Sabah"},
+{"name": "Sarawak"},
+{"name": "Selangor"},
+{"name": "Terengganu"},
+{"name": "Kuala Lumpur"},
+{"name": "Labuan"},
+{"name": "Putrajaya"}
+]

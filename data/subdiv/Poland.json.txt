@@ -1,0 +1,17 @@
+﻿[{"name":"wielkopolskie	"},
+{"name":"świętokrzyskie"},
+{"name":"kujawsko-pomorskie"},
+{"name":"małopolskie"},
+{"name":"łódzkie"},
+{"name":"dolnośląskie"},
+{"name":"lubelskie"},
+{"name":"lubuskie"},
+{"name":"mazowieckie"},
+{"name":"opolskie"},
+{"name":"podlaskie"},
+{"name":"pomorskie"},
+{"name":"śląskie"},
+{"name":"podkarpackie"},
+{"name":"warmińsko-mazurskie"},
+{"name":"zachodniopomorskie"}
+]

@@ -1,0 +1,14 @@
+[{"id":50001,"name":"Aileu"},
+{"id":50002,"name":"Ainaro"},
+{"id":50003,"name":"Baucau"},
+{"id":50004,"name":"Bobonaro"},
+{"id":50005,"name":"Covalima"},
+{"id":50006,"name":"Dili"},
+{"id":50007,"name":"Ermera"},
+{"id":50008,"name":"Lautem"},
+{"id":50009,"name":"Liquica"},
+{"id":50010,"name":"Manatuto"},
+{"id":50011,"name":"Manufahi"},
+{"id":50012,"name":"Oecusse"},
+{"id":50013,"name":"Viqueque"}
+]

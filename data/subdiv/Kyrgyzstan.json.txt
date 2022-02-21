@@ -1,0 +1,10 @@
+[{"name": "Bishkek City"},
+{"name": "Osh City"},
+{"name": "Batken Oblusu"},
+{"name": "Chuy Region"},
+{"name": "Jalal-Abad"},
+{"name": "Naryan Region"},
+{"name": "Osh Region"},
+{"name": "Talas Region"},
+{"name": "Issyk-Kul Region"}
+]

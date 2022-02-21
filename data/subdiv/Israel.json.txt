@@ -1,0 +1,8 @@
+[{"name": "Jerusalem District"},
+{"name": "Northern District"},
+{"name": "Haifa District"},
+{"name": "Central District"},
+{"name": "Tel Aviv District"},
+{"name": "Southern District"},
+{"name": "Judea and Samaria Area"}
+]

@@ -1,0 +1,15 @@
+[{"name":"Aiwo" },
+{"name":"Anabar" },
+{"name":"Anetan" },
+{"name":"Anibare" },
+{"name":"Baitsi" },
+{"name":"Boe" },
+{"name":"Buada" },
+{"name":"Denigomodu" },
+{"name":"Ewa" },
+{"name":"Ijuw" },
+{"name":"Meneng" },
+{"name":"Nibok" },
+{"name":"Uaboe" },
+{"name":"Yaren" }
+]

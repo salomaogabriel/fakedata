@@ -1,0 +1,11 @@
+[{"id":73001,"name":"Artibonite"},
+{"id":73002,"name":"Centr"},
+{"id":73003,"name":"Grand'Anse"},
+{"id":73004,"name":"Nippes"},
+{"id":73005,"name":"Nord"},
+{"id":73006,"name":"Nord-Est"},
+{"id":73007,"name":"Nord-Ouest"},
+{"id":73008,"name":"Ouest"},
+{"id":73009,"name":"Sud"},
+{"id":73010,"name":"Sud-Est"}
+]

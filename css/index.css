@@ -1,0 +1,39 @@
+:root {
+  --main-color: rgb(73, 31, 88);
+  --main-color-darker: rgb(58, 24, 71);
+  --background-color: rgb(255, 255, 255);
+  --color: rgb(0, 0, 0);
+  --soft-color: rgba(0, 0, 0, 0.1);
+  --border-radius: 8px;
+}
+* {
+  font-family: "Nunito", sans-serif;
+}
+body {
+  background-color: var(--background-color);
+  color: var(--color);
+}
+.hide {
+  visibility: hidden;
+  opacity: 0;
+}
+.popup {
+  transition: 500ms;
+  position: fixed;
+  z-index: 32;
+  left: 50%;
+  top: 50%;
+  padding: 12px;
+  background-color: var(--background-color);
+  transform: translate(-50%, -50%);
+  border: 2px solid var(--color);
+  border-radius: var(--border-radius);
+}
+#background-dark {
+  background-color: rgba(0, 0, 0, 0.2);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

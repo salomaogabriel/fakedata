@@ -1,0 +1,9 @@
+[{"name":"Eastern" },
+{"name":"Northeastern" },
+{"name":"Pelagonia" },
+{"name":"Polog" },
+{"name":"Skopje" },
+{"name":"Southeastern" },
+{"name":"Southwestern" },
+{"name":"Vardar" }
+]

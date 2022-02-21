@@ -1,0 +1,11 @@
+[{"id":30001,"name":"Adamaoua"},
+{"id":30002,"name":"Centre"},
+{"id":30003,"name":"Est"},
+{"id":30004,"name":"Extreme-nord"},
+{"id":30005,"name":"Littoral"},
+{"id":30006,"name":"Nord"},
+{"id":30007,"name":"Nord-Ouest"},
+{"id":30008,"name":"Sud"},
+{"id":30009,"name":"Sud-Ouest"},
+{"id":30010,"name":"Ouest"}
+]

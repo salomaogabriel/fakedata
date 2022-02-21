@@ -1,0 +1,8 @@
+[{"name":"Azad Jammu and Kashmir"},
+{"name":"Balochistan"},
+{"name":"Gilgit-Baltistan"},
+{"name":"Islamabad Capital Territory"},
+{"name":"Khyber Pakhtunkhwa"},
+{"name":"Punjab"},
+{"name":"Sindh"}	
+]

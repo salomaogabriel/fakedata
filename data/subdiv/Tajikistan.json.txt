@@ -1,0 +1,6 @@
+﻿[{"name":"Sughd Region"},
+{"name":"Districts of Republican Subordination"},
+{"name":"Kathlon Region"},
+{"name":"Gomo Badakhsan Autonomous Region"},
+{"name":"Dushanbe"}
+]

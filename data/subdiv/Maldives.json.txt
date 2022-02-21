@@ -1,0 +1,17 @@
+[{"name": "Ari Atholhu Dhekunuburi"},
+{"name": "Ari Atholhu Uthuruburi"},
+{"name": "Faadhippolhu"},
+{"name": "Felidhu Atholhu"},
+{"name": "Haddhunmathi "},
+{"name": "Thiladhunmathi Uthuruburi"},
+{"name": "Kolhumadulu"},
+{"name": "Mulak Atholhu "},
+{"name": "Maalhosmadulu Uthuruburi"},
+{"name": "Nilandhe Atholhu Uthuruburi"},
+{"name": "Nilandhe Atholhu Dhekunburi"},
+{"name": "Maalhosmadulu Dhekunuburi"},
+{"name": "Miladhunmadulu Uthuruburi"},
+{"name": "Male Atholhu"},
+{"name": "Huvadhu Atholhu Uthuruburi"},
+{"name": "Huvadhu Atholhu Dhekunuburi"}
+]

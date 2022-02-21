@@ -1,0 +1,13 @@
+﻿[{"name":"Northern Bahr el Ghazal"},
+{"name":"Western Bahr el Ghazal"},
+{"name":"Lakes"},
+{"name":"Warrap"},
+{"name":"Western Equatoria"},
+{"name":"Central Equatoria"},
+{"name":"Eastern Equatoria"},
+{"name":"Jonglei"},
+{"name":"Unity"},
+{"name":"Upper Nile"},
+{"name":"Abyei Area"},
+{"name":"Pibor Area"},
+{"name":"Ruweng Area"}]

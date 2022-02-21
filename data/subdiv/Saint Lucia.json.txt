@@ -1,0 +1,12 @@
+﻿[{"name":"Anse la Raye"},
+{"name":"Castries"},
+{"name":"Choiseul"},
+{"name":"Dauphin"},
+{"name":"Dennery"},
+{"name":"Gros Islet"},
+{"name":"Laborie"},
+{"name":"Micoud"},
+{"name":"Praslin"},
+{"name":"Soufriere"},
+{"name":"Vieux Fort"}
+]

@@ -1,0 +1,9 @@
+﻿[{"name":"Chungcheongbuk-do"},
+{"name":"Chungcheongnam-do"},
+{"name":"Gangwon-do"},
+{"name":"Gyeonggi-do"},
+{"name":"Gyeongsangbuk-do"},
+{"name":"Gyeongsangnam-do"},
+{"name":"Jeollabuk-do"},
+{"name":"Jeollanam-do"},
+{"name":"Jeju "}]

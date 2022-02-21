@@ -1,0 +1,15 @@
+[{"name":"Kunene Region" },
+{"name":"Omusati Region" },
+{"name":"Oshana Region" },
+{"name":"Ohangwena Region" },
+{"name":"Oshikoto Region" },
+{"name":"Kavango West" },
+{"name":"Kavango East" },
+{"name":"Zambezi Region" },
+{"name":"Erongo Region" },
+{"name":"Otjozondjupa Region" },
+{"name":"Omaheke Region" },
+{"name":"Khomas Region" },
+{"name":"Kardap Region" },
+{"name":"Il Karas Region" }
+]

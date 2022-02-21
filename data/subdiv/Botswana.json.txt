@@ -1,0 +1,11 @@
+[{"id":23001,"name":"Southern District"},
+{"id":23002,"name":"South-East District"},
+{"id":23003,"name":"Kweneng District"},
+{"id":23004,"name":"Kgatleng District"},
+{"id":23005,"name":"Central District"},
+{"id":23006,"name":"North-East District"},
+{"id":23007,"name":"Ngamiland District"},
+{"id":23008,"name":"Chobe District"},
+{"id":23009,"name":"Ghanzi District"},
+{"id":23010,"name":"Kgalagadi District"}
+]

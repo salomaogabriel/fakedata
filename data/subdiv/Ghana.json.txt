@@ -1,0 +1,17 @@
+[{"id":66001,"name":"Ashanti"},
+{"id":66002,"name":"Bono Region"},
+{"id":66003,"name":"Bono East Region"},
+{"id":66004,"name":"Ahafo Region"},
+{"id":66005,"name":"Central"},
+{"id":66006,"name":"Eastern"},
+{"id":66007,"name":"Greater Accra"},
+{"id":66008,"name":"Northern"},
+{"id":66009,"name":"Savannah"},
+{"id":66010,"name":"North East"},
+{"id":66011,"name":"Upper East"},
+{"id":66012,"name":"Upper West"},
+{"id":66013,"name":"Volta Region"},
+{"id":66014,"name":"Oti"},
+{"id":66015,"name":"Western Region"},
+{"id":66016,"name":"Western North"}
+]

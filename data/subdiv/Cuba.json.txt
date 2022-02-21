@@ -1,0 +1,17 @@
+[{"id":43001,"name":"Camaguey"},
+{"id":43002,"name":"Ciego de Avila"},
+{"id":43003,"name":"Cienfuegos"},
+{"id":43004,"name":"La Habana"},
+{"id":43005,"name":"Granma"},
+{"id":43006,"name":"Guantanamo"},
+{"id":43007,"name":"Holguin"},
+{"id":43008,"name":"Isla de la Juventud"},
+{"id":43009,"name":"Artemisa"},
+{"id":43010,"name":"Las Tunas"},
+{"id":43011,"name":"Matanzas"},
+{"id":43012,"name":"Mayabeque"},
+{"id":43013,"name":"Pinar del Rio"},
+{"id":43014,"name":"Sancti Spiritus"},
+{"id":43015,"name":"Santiago de Cuba "},
+{"id":43016,"name":"Villa Clara"}
+]

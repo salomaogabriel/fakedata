@@ -1,0 +1,5 @@
+[{"id":57001,"name":"Hhohho"},
+{"id":57002,"name":"Manzini"},
+{"id":57003,"name":"Lubombo"},
+{"id":57004,"name":"Shiselweni"}
+]

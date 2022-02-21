@@ -1,0 +1,14 @@
+[{"id":31001,"name":"Ontario"},
+{"id":31002,"name":"Quebec"},
+{"id":31003,"name":"Nova Scotia"},
+{"id":31004,"name":"New Brunswick"},
+{"id":31005,"name":"Manitoba"},
+{"id":31006,"name":"British Columbia"},
+{"id":31007,"name":"Prince Edward Island"},
+{"id":31008,"name":"Saskatchenwan"},
+{"id":31009,"name":"Alberta"},
+{"id":31010,"name":"Newfoundland and Labrador"},
+{"id":31011,"name":"Northwest Territories"},
+{"id":31012,"name":"Yukon"},
+{"id":31013,"name":"Nunavut"}
+]

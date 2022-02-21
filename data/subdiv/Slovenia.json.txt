@@ -1,0 +1,13 @@
+﻿[{"name":"Gorenjska"},
+{"name":"Goriska"},
+{"name":"Jugovzhohdna Slovenija"},
+{"name":"Koroska"},
+{"name":"Obalno-Kraska"},
+{"name":"Osrednjeslovenska"},
+{"name":"Podravska"},
+{"name":"Pomurska"},
+{"name":"Posavska"},
+{"name":"Primorsko-notranjska"},
+{"name":"Savinjska"},
+{"name":"Zasavska"}
+]

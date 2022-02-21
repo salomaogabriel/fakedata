@@ -1,0 +1,7 @@
+[{"name": "Ahmadi Governorate"},
+{"name": "Al-Asimah Governorate"},
+{"name": "Farwaniya Governorate"},
+{"name": "Hawalli Governorate"},
+{"name": "Jahra Governorate"},
+{"name": "Mubarak Al-Kabeer Governorate"}
+]

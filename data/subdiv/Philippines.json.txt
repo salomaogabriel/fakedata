@@ -1,0 +1,18 @@
+﻿[{"name":"Bangsamoro Autonomous Region in Muslim Mindanao"},
+{"name":"Bicol Region"},
+{"name":"Cagayan Valley"},
+{"name":"Calabarzon"},
+{"name":"Caraga Region"},
+{"name":"Central Luzon"},
+{"name":"Central Visayas"},
+{"name":"Cordillera Administrative Region"},
+{"name":"Davao Region"},
+{"name":"Eastern Visayas"},
+{"name":"Ilocos Region"},
+{"name":"National Capital Region"},
+{"name":"Northern Mindanao"},
+{"name":"Soccsksargen"},
+{"name":"Southwestern Tagalog Region"},
+{"name":"Western Visayas"},
+{"name":"Zamboanga Peninsula"}
+]

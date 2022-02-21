@@ -1,0 +1,11 @@
+[{"id":11001,"name":"Absheron"},
+{"id":11002,"name":"Ganja-Qazakh"},
+{"id":11003,"name":"Shaki-Zaqatala"},
+{"id":11004,"name":"Lankaran"},
+{"id":11005,"name":"Guba-Khachmaz"},
+{"id":11006,"name":"Aran"},
+{"id":11007,"name":"Upper Krabakh"},
+{"id":11008,"name":"Kalbajar-Lachin"},
+{"id":11009,"name":"Mountainous Shirvan"},
+{"id":11010,"name":"Nakhchivan"}
+]

@@ -1,0 +1,6 @@
+﻿[{"name":"Eastern Province"},
+{"name":"Northern Province"},
+{"name":"Southern Province"},
+{"name":"North West Province"},
+{"name":"Western Area"}
+]

@@ -1,0 +1,11 @@
+[{"name":"Bulawayo"},
+{"name":"Harare"},
+{"name":"Manicaland"},
+{"name":"Mashonaland Central"},
+{"name":"Mashonaland East"},
+{"name":"Mashonaland West"},
+{"name":"Masvingo"},
+{"name":"Matabeleland North"},
+{"name":"Matabeleland South"},
+{"name":"Midlands"}
+]

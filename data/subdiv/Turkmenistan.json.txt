@@ -1,0 +1,7 @@
+[{"name":"Ashgabat"},
+{"name":"Ahal Region"},
+{"name":"Balkan Region"},
+{"name":"Dasoguz Region"},
+{"name":"Lebap Region"},
+{"name":"Mary Region"}
+]

@@ -1,0 +1,11 @@
+[{"id":22001,"name":"Unsko-Sanski Kanton"},
+{"id":22002,"name":"Posavski Kanton"},
+{"id":22003,"name":"Tuzlanski Kanton"},
+{"id":22004,"name":"Zenicko-dobojski kanton"},
+{"id":22005,"name":"Bosansko-podrinjski kanton Goražde"},
+{"id":22006,"name":"Srednjobosanski kanton"},
+{"id":22007,"name":"Hercegovacko-neretvanski kanton"},
+{"id":22008,"name":"Zapadnohercegovacki kanton"},
+{"id":22009,"name":"Kanton Sarajevo"},
+{"id":22010,"name":"Kanton 10"}
+]

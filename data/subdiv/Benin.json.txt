@@ -1,0 +1,13 @@
+[{"id":19001,"name":"Alibori"},
+{"id":19002,"name":"Atakora"},
+{"id":19003,"name":"Atlantique"},
+{"id":19004,"name":"Borgou"},
+{"id":19005,"name":"Collines"},
+{"id":19006,"name":"Kouffo"},
+{"id":19007,"name":"Donga"},
+{"id":19008,"name":"Littoral"},
+{"id":19009,"name":"Mono"},
+{"id":19010,"name":"Oueme"},
+{"id":19011,"name":"Plateau"},
+{"id":19012,"name":"Zou"}
+]

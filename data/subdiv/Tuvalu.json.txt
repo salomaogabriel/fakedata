@@ -1,0 +1,10 @@
+[{"name":"Funafuti"},
+{"name":"Nanumea"},
+{"name":"Nui"},
+{"name":"Nukufetau"},
+{"name":"Nukulaelae"},
+{"name":"Vaitupu"},
+{"name":"Nanumanga"},
+{"name":"Niulakita"},
+{"name":"Niutao"}
+]

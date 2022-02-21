@@ -1,0 +1,15 @@
+﻿[{"name":"Dakar"},
+{"name":"Diourbel"},
+{"name":"Fatick"},
+{"name":"Kaffrine"},
+{"name":"Kaolack"},
+{"name":"Kedougou"},
+{"name":"Kolda"},
+{"name":"Louga"},
+{"name":"Matam"},
+{"name":"Saint-Louis"},
+{"name":"Sedhiou"},
+{"name":"Tambacounda"},
+{"name":"Thies"},
+{"name":"Ziguinchor"}
+]

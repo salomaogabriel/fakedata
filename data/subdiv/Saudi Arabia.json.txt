@@ -1,0 +1,14 @@
+﻿[{"name":"Makkah Province"},
+{"name":"Riyadh Province"},
+{"name":"Eastern Province"},
+{"name":"'Aseer Province"},
+{"name":"Jazan Province"},
+{"name":"Al Madinah Province"},
+{"name":"Qassim Province"},
+{"name":"Tabuk Province"},
+{"name":"Ha'il Province"},
+{"name":"Najran Province"},
+{"name":"Al Jawf Province"},
+{"name":"Al baha Province"},
+{"name":"Northern Borders Province"}
+]

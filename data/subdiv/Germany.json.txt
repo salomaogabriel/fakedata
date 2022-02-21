@@ -1,0 +1,17 @@
+[{"id":65001,"name":"Baden-Wurttemberg"},
+{"id":65002,"name":"Bavaria"},
+{"id":65003,"name":"Berlin"},
+{"id":65004,"name":"Brandenburg"},
+{"id":65005,"name":"Bremen"},
+{"id":65006,"name":"Hamburg"},
+{"id":65007,"name":"Hesse"},
+{"id":65008,"name":"Lower Saxony"},
+{"id":65009,"name":"Mecklenburg-Vorpommern"},
+{"id":65010,"name":"North Rhine-Westphalia"},
+{"id":65011,"name":"Rhineland-Palatinate"},
+{"id":65012,"name":"Saaarland"},
+{"id":65013,"name":"Saxony"},
+{"id":65014,"name":"Saxony-Anhalt"},
+{"id":65015,"name":"Schleswig-Holstein"},
+{"id":65016,"name":"Thuringia"}
+]

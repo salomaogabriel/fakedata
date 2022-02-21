@@ -1,0 +1,9 @@
+[{"id":54001,"name":"Annobon"},
+{"id":54002,"name":"Bioko Norte"},
+{"id":54003,"name":"Bioko Sur"},
+{"id":54004,"name":"Centro Sur"},
+{"id":54005,"name":"Kie-Ntem"},
+{"id":54006,"name":"Litoral"},
+{"id":54007,"name":"Wele-Nzas"},
+{"id":54008,"name":"Djibloho"}
+]

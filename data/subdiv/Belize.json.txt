@@ -1,0 +1,7 @@
+[{"id":18001,"name":"Belize"},
+{"id":18002,"name":"Cayo"},
+{"id":18003,"name":"Corozal"},
+{"id":18004,"name":"Orange Walk"},
+{"id":18005,"name":"Stann Creek"},
+{"id":18006,"name":"Toledo"}
+]

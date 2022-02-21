@@ -1,0 +1,14 @@
+﻿[{"name":"Bocas del Toro"},
+{"name":"Chiriqui"},
+{"name":"Cocle"},
+{"name":"Colon"},
+{"name":"Darien"},
+{"name":"Herrera"},
+{"name":"Los Santos"},
+{"name":"Panama"},
+{"name":"Panama Oeste"},
+{"name":"Veraguas"},
+{"name":"Embera"},
+{"name":"Guna Yala"},
+{"name":"Ngabe-Bugle"}
+]

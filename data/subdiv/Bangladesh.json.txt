@@ -1,0 +1,9 @@
+[{"id":14001,"name":"Barisal Division"},
+{"id":14002,"name":"Chittagong Division"},
+{"id":14003,"name":"Dhaka Division"},
+{"id":14004,"name":"Khulna Division"},
+{"id":14005,"name":"Mymensingh Division"},
+{"id":14006,"name":"Rajshahi Division"},
+{"id":14007,"name":"Rangpur Division"},
+{"id":14008,"name":"Sylhet Division"}
+]

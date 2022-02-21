@@ -1,0 +1,15 @@
+[{"name": "Hanover"},
+{"name": "Saint Elizabeth"},
+{"name": "Saint James"},
+{"name": "Trelawny"},
+{"name": "Westmoreland"},
+{"name": "Clarendon"},
+{"name": "Manchester"},
+{"name": "Saint Ann"},
+{"name": "Saint Catherine"},
+{"name": "Saint Mary"},
+{"name": "Kingston Parish"},
+{"name": "Portland"},
+{"name": "Saint Andrew"},
+{"name": "Saint Thomas"}
+]

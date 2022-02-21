@@ -1,0 +1,16 @@
+[{"name":"Ayeyarwady Region" },
+{"name":"Bago Region" },
+{"name":"Chin State" },
+{"name":"Kachin State" },
+{"name":"Kayah State" },
+{"name":"Kayin State" },
+{"name":"Magway Region" },
+{"name":"Mandalay Region" },
+{"name":"Mon State" },
+{"name":"Rakhine State" },
+{"name":"Shan State" },
+{"name":"Sagaing Region" },
+{"name":"Tanintharyi Region" },
+{"name":"Yangon Region" },
+{"name":"Naypyidaw Union Territory" }
+]

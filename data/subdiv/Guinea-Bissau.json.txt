@@ -1,0 +1,10 @@
+[{"id":71000,"name":"Bafata"},
+{"id":71000,"name":"Biombo"},
+{"id":71000,"name":"Bissau"},
+{"id":71000,"name":"Bolama"},
+{"id":71000,"name":"Cacheu"},
+{"id":71000,"name":"Gabu"},
+{"id":71000,"name":"Oio"},
+{"id":71000,"name":"Quinara"},
+{"id":71000,"name":"Tombali"}
+]

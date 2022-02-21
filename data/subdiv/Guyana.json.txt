@@ -1,0 +1,11 @@
+[{"id":72001,"name":"Barima-Waini"},
+{"id":72002,"name":"Pomeroon-Supenaam"},
+{"id":72003,"name":"Essequibo Islands-West Demerara"},
+{"id":72004,"name":"Demerara-Mahaica"},
+{"id":72005,"name":"Mahaica-Berbice"},
+{"id":72006,"name":"East Berbice-Corentyne"},
+{"id":72007,"name":" Cuyuni-Mazaruni"},
+{"id":72008,"name":"Potaro-Siparuni"},
+{"id":72009,"name":"Upper Takutu-Upper Essequibo"},
+{"id":72010,"name":"Upper Demerara Berbice"}
+]

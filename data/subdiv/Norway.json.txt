@@ -1,0 +1,17 @@
+[{"name":"Agder" },
+{"name":"Innlandet" },
+{"name":"More og Romsdal" },
+{"name":"Nordland" },
+{"name":"Oslo " },
+{"name":"Rogaland" },
+{"name":"Troms og Finnmark" },
+{"name":"Trondelag" },
+{"name":"Vestfold og Telemark" },
+{"name":"Vestland" },
+{"name":"Viken" },
+{"name":"Svalbard" },
+{"name":"Jan Mayen" },
+{"name":"Peter I Island" },
+{"name":"Bouvet Island" },
+{"name":"Queen Maud Land" }
+]

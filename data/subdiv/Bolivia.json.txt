@@ -1,0 +1,10 @@
+[{"id":21001,"name":"Beni"},
+{"id":21002,"name":"Chuquisaca"},
+{"id":21003,"name":"Cochabamba"},
+{"id":21004,"name":"La Paz"},
+{"id":21005,"name":"Oruro"},
+{"id":21006,"name":"Pando"},
+{"id":21007,"name":"Potosi"},
+{"id":21008,"name":"Santa Cruz"},
+{"id":21009,"name":"Tarija"}
+]

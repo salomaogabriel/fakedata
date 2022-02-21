@@ -1,0 +1,17 @@
+[{"id":9001,"name":"New South Wales"},
+{"id":9002,"name":"Queensland"},
+{"id":9003,"name":"South Australia"},
+{"id":9004,"name":"Tasmania"},
+{"id":9005,"name":"Victoria"},
+{"id":9006,"name":"Western Australia"},
+{"id":9007,"name":"Australian Capital Territory"},
+{"id":9008,"name":"Jervis Bay Territory"},
+{"id":9009,"name":"Northern Territory"},
+{"id":9010,"name":"Ashmore and Cartier Islands"},
+{"id":9011,"name":"Australian Antartic Territory"},
+{"id":9012,"name":"Christmas Island"},
+{"id":9013,"name":"Cocos(Keeling) Islands"},
+{"id":9014,"name":"Coral Sea Islands"},
+{"id":9015,"name":"Heard Island and McDonald Islands"},
+{"id":9016,"name":"Norfolk Island"}
+]

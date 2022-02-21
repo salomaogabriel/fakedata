@@ -1,0 +1,11 @@
+﻿[{"name":"Central Province"},
+{"name":"Choiseul Province"},
+{"name":"Gudalcanal Province"},
+{"name":"Isabel Province"},
+{"name":"Makira-Ulawa Province"},
+{"name":"Malaita Province"},
+{"name":"Rennel and Bellona Province"},
+{"name":"Temotu Province"},
+{"name":"Western Province"},
+{"name":"Capital Territory"}
+]

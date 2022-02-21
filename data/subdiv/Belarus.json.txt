@@ -1,0 +1,8 @@
+[{"id":16001,"name":"Minsk"},
+{"id":16002,"name":"Minsk Region"},
+{"id":16003,"name":"Gomel Region"},
+{"id":16004,"name":"Brest Region"},
+{"id":16005,"name":"Grodno Region"},
+{"id":16006,"name":"Vitebsk Region"},
+{"id":16007,"name":"Mogilev Region"}
+]

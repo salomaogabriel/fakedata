@@ -1,0 +1,11 @@
+[{"name":"Central"},
+{"name":"Copperbelt"},
+{"name":"Eastern"},
+{"name":"Luapula"},
+{"name":"Lusaka"},
+{"name":"Muchinga"},
+{"name":"North-Western"},
+{"name":"Northern"},
+{"name":"Southern"},
+{"name":"Western"}
+]

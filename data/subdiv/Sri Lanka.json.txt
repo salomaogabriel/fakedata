@@ -1,0 +1,10 @@
+﻿[{"name":"Central"},
+{"name":"Eastern "},
+{"name":"North Central"},
+{"name":"North Western"},
+{"name":"Northern"},
+{"name":"Sabaragamuwa"},
+{"name":"Southern"},
+{"name":"Uva"},
+{"name":"Western"}
+]

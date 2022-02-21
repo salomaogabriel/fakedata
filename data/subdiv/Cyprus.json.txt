@@ -1,0 +1,7 @@
+[{"id":44001,"name":"Gazimagusa"},
+{"id":44002,"name":"Girne"},
+{"id":44003,"name":"Larnaka"},
+{"id":44004,"name":"Leymosun"},
+{"id":44005,"name":"Lefkosa"},
+{"id":44006,"name":"Gazibaf"}
+]

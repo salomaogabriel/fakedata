@@ -1,0 +1,9 @@
+[{"id":67001,"name":"Attica"},
+{"id":67002,"name":"Macedonia and Thrace"},
+{"id":67003,"name":"Epirus and Western Macedonia"},
+{"id":67004,"name":"Thessaly and Central Greece"},
+{"id":67005,"name":"Peloponnese,Western Greece and the Ionian"},
+{"id":67006,"name":"Aegean"},
+{"id":67007,"name":"Crete"},
+{"id":67008,"name":"Mount Athos"}
+]

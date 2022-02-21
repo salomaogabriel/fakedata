@@ -1,0 +1,13 @@
+[{"id":2001,"name":"Berat"},
+{"id":2002,"name":"Diber"},
+{"id":2003,"name":"Durres"},
+{"id":2004,"name":"Elbasan"},
+{"id":2005,"name":"Fier"},
+{"id":2006,"name":"Gjirokaster"},
+{"id":2007,"name":"Korce"},
+{"id":2008,"name":"Kukes"},
+{"id":2009,"name":"Lezhe"},
+{"id":2010,"name":"Shkoder"},
+{"id":2011,"name":"Tirana"},
+{"id":2012,"name":"Vlore"}
+]

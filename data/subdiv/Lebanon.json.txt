@@ -1,0 +1,9 @@
+[{"name": "Akkar"},
+{"name": "Baalbek-Hermel"},
+{"name": "Beirut"},
+{"name": "Beqaa"},
+{"name": "Mount Lebanon"},
+{"name": "Nabatieh"},
+{"name": "North"},
+{"name": "South"}
+]

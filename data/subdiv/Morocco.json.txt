@@ -1,0 +1,13 @@
+[{"name":"Beni Mellal-Khenifra" },
+{"name":"Casablanca-Settat" },
+{"name":"Dakhla-Oued Ed-Dahab" },
+{"name":"Draa-Tafilalet" },
+{"name":"Fes-Meknes" },
+{"name":"Guelmin-Oued Noun" },
+{"name":"Laayoune-Sakia El Hamra" },
+{"name":"Marrakesh-Safi" },
+{"name":"Oriental" },
+{"name":"Rabat-Sale-Kenitra" },
+{"name":"Souss-Massa" },
+{"name":"Tanger-Tetouan-Al Hoceima" }
+]

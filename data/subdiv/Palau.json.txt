@@ -1,0 +1,16 @@
+﻿[{"name":"Kayangel"},
+{"name":"Aimeliik"},
+{"name":"Melekeok"},
+{"name":"Ngaraard"},
+{"name":"Ngarchelong"},
+{"name":"Ngardmau"},
+{"name":"Ngeremlengui"},
+{"name":"Ngatpang"},
+{"name":"Ngcehsar"},
+{"name":"Ngiwal"},
+{"name":"Angaur"},
+{"name":"Koror"},
+{"name":"Peleliu"},
+{"name":"Katohobei"},
+{"name":"Sonsorol"}
+]

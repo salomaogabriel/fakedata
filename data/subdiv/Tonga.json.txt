@@ -1,0 +1,5 @@
+﻿[{"name":"Tongatapu"},
+{"name":"Vava'u"},
+{"name":"Ha'apai"},
+{"name":"'Eua"},
+{"name":"Ongo Niua"}]

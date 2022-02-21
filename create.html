@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/index.css" />
+    <link rel="stylesheet" href="css/create.css" />
+  </head>
+  <body>
+    <!-- Pop ups -->
+    <div id="background-dark" class="hide"></div>
+    <div id="tutorial-ask" class="popup hide"></div>
+    <div id="tutorial" class="popup hide"></div>
+    <div id="data-type-name" class="popup hide">
+      <input type="text" id="data-type-name-input" />
+      <button
+        onclick="CreateCustomizedDataTypeForm()"
+        class="create-data-type-btn"
+      >
+        Create
+      </button>
+    </div>
+    <!-- End Of Pop ups -->
+    <article>
+      <section id="1">
+        <div class="section-one-top">
+          <div class="edit-fake-name">
+            <h1>Fake Name</h1>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.363 8.464l1.433 1.431-12.67 12.669-7.125 1.436 1.439-7.127 12.665-12.668 1.431 1.431-12.255 12.224-.726 3.584 3.584-.723 12.224-12.257zm-.056-8.464l-2.815 2.817 5.691 5.692 2.817-2.821-5.693-5.688zm-12.318 18.718l11.313-11.316-.705-.707-11.313 11.314.705.709z"
+              />
+            </svg>
+          </div>
+          <button class="collapsible">&vee;</button>
+          <!-- &wedge; <- Up -->
+        </div>
+
+        <div class="content">
+          <button class="new-data-type-btn" onclick="AskForDataTypeName()">
+            Add Customized Data Type
+          </button>
+        </div>
+      </section>
+    </article>
+    <!-- Pop up -->
+    <!-- First thing as user goes to page: -->
+    <!-- Would you like a tutorial?  YES|NO|DON'T ASK AGAIN -->
+    <!-- End Pop up -->
+
+    <!-- First Section -->
+    <!-- Fake Data Name -->
+    <!-- Add Customized Data Type -->
+    <!-- Name -->
+    <!-- Add type to customized Data Type -->
+    <!-- CREATE/MODIFY BTN -->
+    <!-- End First Section -->
+
+    <!-- Second Section -->
+    <!-- Create your Columns -->
+    <!-- Click Here to Add a new Column -->
+    <!-- New Column: -->
+    <!-- Name(string) |  Data Type(The Data Type)-->
+    <!-- End of Second Section -->
+
+    <!-- Third Section -->
+    <!-- Settings -->
+    <!-- Lenght Input -->
+    <!-- Content Type From DropDown -->
+    <!-- Create Fake Data BTN -->
+    <!-- End of Third Section -->
+
+    <!-- User Configures the Request -->
+    <!-- First Configure the parameters  -->
+    <!-- Second configure the settings (Lenght, Content Type) Save Configuration -->
+    <script src="js/animation.js"></script>
+    <script src="js/create-actions.js"></script>
+  </body>
+</html>

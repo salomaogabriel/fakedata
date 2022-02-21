@@ -1,0 +1,6 @@
+[{"name": "Riga"},
+{"name": "Kurzeme"},
+{"name": "Latgale"},
+{"name": "Zemgale"},
+{"name": "Vidzeme"}
+]

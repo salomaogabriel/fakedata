@@ -1,0 +1,7 @@
+﻿[{"name":"Northern Thailand"},
+{"name":"Northeastern Thailand"},
+{"name":"Western Thailand"},
+{"name":"Central Thailand"},
+{"name":"Eastern Thailand"},
+{"name":"Southern Thailand"}
+]

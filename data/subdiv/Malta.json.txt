@@ -1,0 +1,6 @@
+[{"name": "Central Region"},
+{"name": "Gozo Region"},
+{"name": "Northern Region"},
+{"name": "South Eastern Region"},
+{"name": "Southern Region"}
+]

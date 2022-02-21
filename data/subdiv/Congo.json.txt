@@ -1,0 +1,13 @@
+[{"id":40001,"name":"Bouenza"},
+{"id":40002,"name":"Brazzaville"},
+{"id":40003,"name":"Cuvette"},
+{"id":40004,"name":"Cuvette-Ouest"},
+{"id":40005,"name":"Kouilou"},
+{"id":40006,"name":"Lekoumou"},
+{"id":40007,"name":"Likouala"},
+{"id":40008,"name":"Niari"},
+{"id":40009,"name":"Plateaux"},
+{"id":40010,"name":"Pointe-Noire"},
+{"id":40011,"name":"Pool"},
+{"id":40012,"name":"Sangha"}
+]
