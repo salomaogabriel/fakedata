@@ -21,10 +21,9 @@ function createPerson() {
 }
 function getLocation() {
   // Node fetch doesn't work on local files
-  fetch("test.json")
+  fetch("https://salomaogabriel.github.io/fakedata/data/country.json")
     .then((res) => res.json())
     .then((res) => {
-      //   let random = Math.floor(Math.random() * 196) + 1;
       console.log(res);
     });
 }
