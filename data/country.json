@@ -1,4 +1,5 @@
 ﻿{
+  "name": "test",
   "countries": [
     { "id": 1, "name": "Afghanistan" },
     { "id": 2, "name": "Albania" },
