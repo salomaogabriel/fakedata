@@ -85,15 +85,36 @@ async function createData() {
     userType: selectRandomUserType(userType),
   };
 }
-function generateData(format, total_length, cur_length) {
+function generateData(format, total_length, cur_length, person, location) {
   return new Promise((resolve) => {
     if (format.is_autoincrement) resolve(cur_length);
     if (format.data_type == "int") {
       resolve(getInt(format));
     }
     if (format.data_type == "name") {
-      createPerson().then((res) => resolve(res.name));
+      resolve(person.name);
     }
+    if (format.data_type == "email") {
+      resolve(person.email);
+    }
+    if (format.data_type == "username") {
+      resolve(person.username);
+    }
+    if (format.data_type == "pwd") {
+      resolve(person.pwd);
+    }
+    if (format.data_type == "country") {
+      resolve(location.country);
+    }
+    if (format.data_type == "state") {
+      resolve(location.state);
+    }
+    if (format.data_type == "string") {
+      resolve(generateRandomString(format.max));
+    }
+    if (format.data_type == "customized") {
+    }
+    resolve("An error Occured");
   });
 }
 function getInt(format) {
@@ -105,23 +126,43 @@ function getInt(format) {
 async function createRequestedData(format, options) {
   let data = [];
   for (var i = 0; i < options.rows; i++) {
+    let person = [];
+    let location = [];
+    if (options.needs_to_create_person) {
+      person = createPerson();
+    }
+    if (options.needs_to_get_location) {
+      location = getLocation();
+    }
     let row = [];
     for (let format_index = 0; format_index < format.length; format_index++) {
-      let column = {
-        [format[format_index].name]: await generateData(
-          format[format_index],
-          options.rows,
-          i
-        ),
-      };
+      if (format[format_index].data_type != "array") {
+        let column = {
+          [format[format_index].name]: await generateData(
+            format[format_index],
+            options.rows,
+            i,
+            await person,
+            await location
+          ),
+        };
+      } else {
+      }
+
       row.push(column);
     }
     data.push(row);
   }
   return data;
 }
+function GenerateOneRow() {}
 
-let options = { rows: 10, test_all_bool: false };
+let options = {
+  rows: 10,
+  test_all_bool: false,
+  needs_to_create_person: true,
+  needs_to_get_location: false,
+};
 let format = [
   {
     name: "id",
@@ -130,6 +171,7 @@ let format = [
     is_random: false,
     is_customized: false,
     customized_data_type: {},
+    array: [],
     min: 0,
     max: 100,
     preset: 0,
@@ -141,6 +183,32 @@ let format = [
     is_random: true,
     is_customized: false,
     customized_data_type: {},
+    array: [],
+    min: 0,
+    max: 40,
+    preset: 0,
+  },
+  {
+    name: "array",
+    data_type: "array",
+    is_autoincrement: false,
+    is_random: true,
+    is_customized: false,
+    customized_data_type: {},
+    array: [
+      {
+        name: "id",
+        data_type: "int",
+        is_autoincrement: true,
+        is_random: false,
+        is_customized: false,
+        customized_data_type: {},
+        array: [],
+        min: 0,
+        max: 100,
+        preset: 0,
+      },
+    ],
     min: 0,
     max: 40,
     preset: 0,
