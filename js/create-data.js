@@ -1,4 +1,7 @@
 import fetch from "node-fetch";
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
+const fs = require("fs");
 
 // Only needs node fetch when trying without webpage;'
 function createPerson() {
@@ -134,33 +137,39 @@ async function createRequestedData(format, options) {
     if (options.needs_to_get_location) {
       location = getLocation();
     }
-    let row = [];
-    for (let format_index = 0; format_index < format.length; format_index++) {
-      if (format[format_index].data_type != "array") {
-        let column = {
-          [format[format_index].name]: await generateData(
-            format[format_index],
-            options.rows,
-            i,
-            await person,
-            await location
-          ),
-        };
-      } else {
-      }
-
-      row.push(column);
-    }
+    let row = await GenerateOneRow(format, person, location, options, i);
     data.push(row);
   }
   return data;
 }
-function GenerateOneRow() {}
+async function GenerateOneRow(format, person, location, options, i) {
+  let row = {};
+  for (let format_index = 0; format_index < format.length; format_index++) {
+    if (format[format_index].data_type != "array") {
+      row[format[format_index].name] = await generateData(
+        format[format_index],
+        options.rows,
+        i,
+        await person,
+        await location
+      );
+    } else {
+      row[format[format_index].name] = await GenerateOneRow(
+        format[format_index].array,
+        person,
+        location,
+        options,
+        i
+      );
+    }
+  }
+  return row;
+}
 
 let options = {
-  rows: 10,
+  rows: 1,
   test_all_bool: false,
-  needs_to_create_person: true,
+  needs_to_create_person: false,
   needs_to_get_location: false,
 };
 let format = [
@@ -172,24 +181,26 @@ let format = [
     is_customized: false,
     customized_data_type: {},
     array: [],
+    array_length: 0,
     min: 0,
     max: 100,
     preset: 0,
   },
   {
-    name: "name",
-    data_type: "name",
+    name: "string",
+    data_type: "string",
     is_autoincrement: false,
     is_random: true,
     is_customized: false,
     customized_data_type: {},
     array: [],
+    array_length: 0,
     min: 0,
-    max: 40,
+    max: 10,
     preset: 0,
   },
   {
-    name: "array",
+    name: "email",
     data_type: "array",
     is_autoincrement: false,
     is_random: true,
@@ -204,11 +215,28 @@ let format = [
         is_customized: false,
         customized_data_type: {},
         array: [],
+        array_length: 0,
+
+        min: 0,
+        max: 100,
+        preset: 0,
+      },
+      {
+        name: "id_two",
+        data_type: "int",
+        is_autoincrement: true,
+        is_random: false,
+        is_customized: false,
+        customized_data_type: {},
+        array: [],
+        array_length: 0,
+
         min: 0,
         max: 100,
         preset: 0,
       },
     ],
+    array_length: 1,
     min: 0,
     max: 40,
     preset: 0,
@@ -216,7 +244,15 @@ let format = [
 ];
 createRequestedData(format, options).then((data) => {
   console.log(data);
+  fs.writeFile("test.txt", JSON.stringify(data), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+    console.log("The file was saved!");
+  });
 });
+
 // createData().then((data) => {
 //   console.log(data.userType.type);
 // });
+// { email: [ { id: 0 } ] }
