@@ -66,7 +66,7 @@ function createUserDataType(name, types) {
 function selectRandomUserType(userType) {
   let random = getRandomInteger(0, userType.length);
 
-  return { name: userType.name, type: userType.types[random] };
+  return userType.types[random];
 }
 
 async function createData() {
@@ -90,7 +90,8 @@ async function createData() {
 }
 function generateData(format, total_length, cur_length, person, location) {
   return new Promise((resolve) => {
-    if (format.is_autoincrement) resolve(cur_length);
+    if (format.is_autoincrement && format.data_type == "int")
+      resolve(cur_length);
     if (format.data_type == "int") {
       resolve(getInt(format));
     }
@@ -116,6 +117,7 @@ function generateData(format, total_length, cur_length, person, location) {
       resolve(generateRandomString(format.max));
     }
     if (format.data_type == "customized") {
+      resolve(selectRandomUserType(format.customized_data_type));
     }
     resolve("An error Occured");
   });
@@ -154,20 +156,38 @@ async function GenerateOneRow(format, person, location, options, i) {
         await location
       );
     } else {
-      row[format[format_index].name] = await GenerateOneRow(
-        format[format_index].array,
-        person,
-        location,
-        options,
-        i
-      );
+      let customizedOptions = options;
+      if (format[format_index].array_length == 1) {
+        row[format[format_index].name] = await GenerateOneRow(
+          format[format_index].array,
+          person,
+          location,
+          customizedOptions,
+          i
+        );
+      } else {
+        // create as it was before
+        let data = [];
+        for (var i = 0; i < format[format_index].array_length; i++) {
+          let row = await GenerateOneRow(
+            format[format_index].array,
+            person,
+            location,
+            options,
+            i
+          );
+          data.push(row);
+        }
+        row[format[format_index].name] = data;
+      }
     }
   }
   return row;
 }
-
+let userTypeArray = ["One", "two", "three"];
+let userType = createUserDataType("test", userTypeArray);
 let options = {
-  rows: 1,
+  rows: 5,
   test_all_bool: false,
   needs_to_create_person: false,
   needs_to_get_location: false,
@@ -236,9 +256,22 @@ let format = [
         preset: 0,
       },
     ],
-    array_length: 1,
+    array_length: 2,
     min: 0,
     max: 40,
+    preset: 0,
+  },
+  {
+    name: "customized",
+    data_type: "customized",
+    is_autoincrement: false,
+    is_random: false,
+    is_customized: true,
+    customized_data_type: userType,
+    array: [],
+    array_length: 0,
+    min: 0,
+    max: 100,
     preset: 0,
   },
 ];
@@ -251,8 +284,3 @@ createRequestedData(format, options).then((data) => {
     console.log("The file was saved!");
   });
 });
-
-// createData().then((data) => {
-//   console.log(data.userType.type);
-// });
-// { email: [ { id: 0 } ] }

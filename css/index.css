@@ -1,17 +1,21 @@
 :root {
-  --main-color: rgb(73, 31, 88);
-  --main-color-darker: rgb(58, 24, 71);
-  --background-color: rgb(255, 255, 255);
-  --color: rgb(0, 0, 0);
+  --main-color: #bb86fc;
+  --main-color-darker: #994af1;
+  --background-color-main: #1f1b24;
+  --background-color: #090c15;
+  --color-text-primary: #cbd4d9;
+  --color-text-secondary: #929fa5;
+  --color: rgb(255, 255, 255);
   --soft-color: rgba(0, 0, 0, 0.1);
   --border-radius: 8px;
+  --error: #cf6679;
 }
 * {
-  font-family: "Nunito", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 body {
   background-color: var(--background-color);
-  color: var(--color);
+  color: var(--color-text-primary);
 }
 .hide {
   visibility: hidden;
@@ -28,12 +32,4 @@ body {
   transform: translate(-50%, -50%);
   border: 2px solid var(--color);
   border-radius: var(--border-radius);
-}
-#background-dark {
-  background-color: rgba(0, 0, 0, 0.2);
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }
